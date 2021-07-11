@@ -8699,23 +8699,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\frednielsen\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Frede\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frednielsen\\OneDrive\\InvestorsHub\\mainproject\\backend\\backendTests\\backendTests.csproj",
+      "projectUniqueName": "C:\\Users\\Frede\\OneDrive\\InvestorsHub\\InvestorsQandA\\backend\\backendTests\\backendTests.csproj",
       "projectName": "backendTests",
-      "projectPath": "C:\\Users\\frednielsen\\OneDrive\\InvestorsHub\\mainproject\\backend\\backendTests\\backendTests.csproj",
-      "packagesPath": "C:\\Users\\frednielsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frednielsen\\OneDrive\\InvestorsHub\\mainproject\\backend\\backendTests\\obj\\",
+      "projectPath": "C:\\Users\\Frede\\OneDrive\\InvestorsHub\\InvestorsQandA\\backend\\backendTests\\backendTests.csproj",
+      "packagesPath": "C:\\Users\\Frede\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Frede\\OneDrive\\InvestorsHub\\InvestorsQandA\\backend\\backendTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\frednielsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8730,8 +8730,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\frednielsen\\OneDrive\\InvestorsHub\\mainproject\\backend\\backend\\backend.csproj": {
-              "projectPath": "C:\\Users\\frednielsen\\OneDrive\\InvestorsHub\\mainproject\\backend\\backend\\backend.csproj"
+            "C:\\Users\\Frede\\OneDrive\\InvestorsHub\\InvestorsQandA\\backend\\backend\\backend.csproj": {
+              "projectPath": "C:\\Users\\Frede\\OneDrive\\InvestorsHub\\InvestorsQandA\\backend\\backend\\backend.csproj"
             }
           }
         }
@@ -8782,14 +8782,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
